@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: red;
+}
+
+#texto{
+    color: blue;
+    font-size: 32px;
+}
+
+.subtitulo{
+    background-color: yellow;
+}
+
+i, strong{
+    background-color: green;
+}
